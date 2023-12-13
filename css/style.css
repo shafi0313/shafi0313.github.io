@@ -16,10 +16,15 @@
 10) EDINA CONTACT
 11) EDINA MEDIA QUERIES (FOR SMALL DEVIVES)
 
+
+
+
 /*--------------------------------f-------------------*/
 /*	01) EDINA BASE
 /*---------------------------------------------------*/
-
+.edina_tm_testimonials .text p {
+	text-align: justify;
+}
 html {
 	overflow-x: hidden;
 	padding: 0px;
